@@ -1,10 +1,10 @@
 # yOUTubeZaprET
 
-Сборка yOUTubeZaprET для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+Актуальная версия с поддержкой YouTube в текущих условиях. Надежнее, быстрее, стабильнее
 
 Сборка yOUTubeZaprET для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/UltimateDoveJam/yOUTubeZaprET/releases/latest
-Код: https://github.com/UltimateDoveJam/yOUTubeZaprET
+Релиз: https://github.com/ultimatedovejam/yOUTubeZaprET/releases/latest
+Код: https://github.com/ultimatedovejam/yOUTubeZaprET
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/UltimateDoveJam/yOUTubeZaprET
+Страница: https://github.com/ultimatedovejam/yOUTubeZaprET
